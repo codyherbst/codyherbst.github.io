@@ -1,6 +1,7 @@
 html {
     background: linear-gradient(skyblue, white);
-    height: 100%;
+    font-size: 20px;
+    /*height: 100%;*/
 }
 
 h1 {
@@ -12,8 +13,14 @@ nav ul {
     list-style-type: none;
     border-top: solid thin;
     border-bottom: solid thin;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 10px;
+}
+
+nav ul li {
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 nav li + li {
@@ -39,6 +46,6 @@ h1 + nav ul {
 }
 
 article {
-    margin-left: 50px;
-    margin-right: 400px;
+    margin-left: 200px;
+    margin-right: 650px;
 }
