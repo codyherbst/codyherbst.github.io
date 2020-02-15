@@ -98,7 +98,27 @@ article {
 }
 
 .blogPost article{
+    /*
     border: black solid thin;
     border-radius: 25px;
-    padding: 10px;
+    padding: 10px; */
+
+    background-color: rgba(211, 211, 211, .3);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-bottom: 20px;
+}
+
+section {
+    float: left;
+}
+
+aside {
+    widows: 200px;
+    position: fixed;
+    border: black solid thin;
+    float: right;
 }
