@@ -7,7 +7,7 @@ html {
 h1 {
     text-align: center;
 }
-
+/*
 nav ul {
     text-align: center;
     list-style-type: none;
@@ -40,14 +40,9 @@ nav li a:visited {
 nav li {
     display: inline;
 }
-
+*/
 h1 + nav ul {
     font-size: 175%;
-}
-
-article {
-    margin-left: 200px;
-    margin-right: 650px;
 }
 
 /* Dropdown button on projects page*/
@@ -96,12 +91,12 @@ article {
 .projectsh2 {
     text-align: center;
 }
-
+/*
 .blogPost article{
     /*
     border: black solid thin;
     border-radius: 25px;
-    padding: 10px; */
+    padding: 10px; 
 
     background-color: rgba(211, 211, 211, .3);
     border-radius: 10px;
@@ -111,7 +106,7 @@ article {
     padding-top: 5px;
     margin-bottom: 20px;
 }
-
+*/
 section {
     float: left;
 }
@@ -121,4 +116,8 @@ aside {
     position: fixed;
     border: black solid thin;
     float: right;
+}
+
+.container {
+    margin-left: 100px;
 }

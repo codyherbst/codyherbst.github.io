@@ -5,18 +5,19 @@
         <meta name="author" content="Cody Herbst">
         <meta name="description" content="This is the blog of Cody Herbst and his journey through Awesome Inc U.">
         <title>Cody Herbst's Blog</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
         <link rel="stylesheet" href="css/styles.css">
     </head>
     <body>
         <header>
             <h1>Blog</h1>
-            <nav>
-                <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li>Blog</li>
-                    <li><a href="projects.html">Projects</a></li>
-                    <li><a href="blog.html">Links</a></li>
-                    <li><a href="about.html">About</a></li>
+            <nav class="navbar navbar-expand-sm justify-content-center bg-dark navbar-dark">
+                <ul class = "navbar-nav">
+                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="blog.html">Blog</a></li>
+                    <li class="nav item"><a class="nav-link" href="projects.html">Projects</a></li>
+                    <li class="nav-item"><a class="nav-link" href="links.html">Links</a></li>
+                    <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
                 </ul>
             </nav>
         </header>
@@ -24,21 +25,21 @@
         
 
         <section class="blogPost">
-            <article>
+            <article class="container p-30 my-3 border bg-dark text-white">
                 <h2>Prework Week 3 Blog Post</h2>
                 <h3>What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and 
                     providing user experience?</h3>
                 <p>
-                    I think it's interesting after that JavaScript and CSS can be interchangable in doing certain tasks for a site. JavaScript simply
+                    I think it's interesting that JavaScript and CSS can be interchangable in doing certain tasks for a site. JavaScript simply
                     provides a bit more functionality when doing it from what I've been reading. Overall the separation of responsibility between
                     the three languages is a sensible way to do web development.
                 </p>
-                <h3>What are some ojbects that your blog incorporates?</h3>
+                <h3>What are some objects that your blog incorporates?</h3>
                 <p>
                     Currently I don't have any JS being used so I don't think I have an objects incoroporated at the moment.
                 </p>
             </article>
-            <article>
+            <article class="container p-30 my-3 border bg-dark text-white">
                 <h2>Prework Week 2 Blog Post</h2>
                 <h3>What are your thoughts on pseudo coding?</h3>
                 <p>
@@ -56,7 +57,7 @@
                     like javascript and other future languages will, or so I hope! 
                 </p>
             </article>
-            <article>
+            <article class="container p-3 my-3 border bg-dark text-white">
             <h2>Prework Week 1 Blog Post</h2>
             <h3>
                 Was your first week what you expected? Why? Why not?
@@ -85,5 +86,8 @@
             Hello!
         </aside>
         </section>
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
     </body>
 </html>
