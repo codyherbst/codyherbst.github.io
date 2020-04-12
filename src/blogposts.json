@@ -1,0 +1,207 @@
+[
+    {
+        "Title": "Week 4 Blog Post",
+        "BlogPosts": [
+            {
+                "Subhead": "Why do you see JavaScript Frameworks and Libraries useful or hard to use?",
+                "Paragraphs": [
+                    "I suppose I can only speak to React but it has made OOP both more complicated and easier to use. The state management was easily the hardest thing to get a solid understanding of. Having to do state according to something else's rules is not easy to grasp especially when you have little understanding of what the framework is doing behind the scenes."
+                ]
+            },
+            {
+                "Subhead": "What Frameworks or Libraries are you interested in learning more about?",
+                "Paragraphs": [
+                    "The only one I know of is AngularJS so I guess that one."
+                ]
+            },
+            {
+                "Subhead": "Find one emerging JavaScript tool that you would like to learn more about or use in your final project.",
+                "Paragraphs": [
+                    "From what little I have heard in class I think Google Polymer would be it."
+                ]
+            }
+        ]
+    },
+    {
+        "Title": "Week 3 Blog Post",
+        "BlogPosts": [
+            {
+                "Subhead": "What are three ideas you might want to do for your final project?",
+                "Paragraphs": [
+                    "I don't have three but I do have one that I have really thougt about. I want to create a website that is essentially a news congregrate. The way I want to go about doing this is by using a natural language processor (NLP) such as what <a href='https://nlp.stanford.edu/'>Stanford</a> offers.",
+                    "The basis of the project has been done and is where my idea originated. On reddit and elsewhere there are bots that auto-summarize articles and post them as a comment. However I want to further this by summarizing multiples of the same article across different sites to try and distill the most reliable and up-to-date summary.",
+                    "There is a premade summary bot, <a href='https://smmry.com/'>SMMRY</a>, however this is a paid API and part of this project that I really want to do is making it mostly from scratch. There is also Google's <a href='https://cloud.google.com/natural-language'>API</a> that is possible to use. However, my understanding is that Stanford's NLP can be set up on the same webserver likely making it more efficient than accessing Google's API, especially if the website parses multiple articles at a time.",
+                    "The only real drawback to this idea is that I'm mostly confident I won't be able to fully complete this project as a final design considering the amount of new material I would need to learn. Despite this I still want to try as it is a bit of a passion project that I've thought about a lot."
+                ]
+            },
+            {
+                "Subhead": "Why do you see JavaScript (JS) useful or hard to use?",
+                "Paragraphs": [
+                    "The difficulty I see with JS is in OOP. It seems like an afterthought as much as anything and really makes it challenging to understand. However overcoming that makes document manipulation so much easier."
+                ]
+            },
+            {
+                "Subhead": "What aspects about JavaScript are you interested in learning more about?",
+                "Paragraphs": [
+                    "This follows with the previous answer but it has to be OOP. I feel if I can really learn JS' OOP then I will have no trouble learning OOP in any other language."
+                ]
+            }
+        ]
+    },
+    {
+        "Title": "Week 2 Blog Post",
+        "BlogPosts": [
+            {
+                "Subhead": "What did you learn about that helped you understand the development process?",
+                "Paragraphs": [
+                    "I learned to not stop workng on something even when you think it meets requirements. There's always something more to be done to make a project even better. This might break code at one point but it's important to expand on what's already there."
+                ]
+            },
+            {
+                "Subhead": "What does it mean to develop good code?",
+                "Paragraphs": [
+                    "To me good code is concise code that does a task efficiently. If it's hard to read or is written longer than need be then it's subpar code."
+                ]
+            },
+            {
+                "Subhead": "What does it mean to be a good developer?",
+                "Paragraphs": [
+                    "A good developer not only writes good code but mainly helps others if and when they need it. Our process of learning off each other has taught me this much."
+                ]
+            },
+            {
+                "Subhead": "What is one thing that programmers hate doing?",
+                "Paragraphs": [
+                    "I personally hate starting a project. Once I'm in a project and see things on the screen it's much easier than when the screen is blank. Pseudocoding hasn't really done much for me as it's more of a writer's block as I can't pseudocode anything either."
+                ]
+            }
+        ]
+    },
+    {
+        "Title": "Week 1 Blog Post",
+        "BlogPosts": [
+            {
+                "Subhead": "What did you learn about that helped you understand more about design?",
+                "Paragraphs": [
+                    "Learning bootstrap has been the single most important lesson when it comes to understanding design. I in no way would have been comfortable doing design if only using CSS and html was a thing."
+                ]
+            },
+            {
+                "Subhead": "What do you want to continue learning about that helps you understand design better?",
+                "Paragraphs": [
+                    "I want to continue to learn how to design for mobile first. It seems to me developing with the screen set to mobile at the beginning will allow me to focus better on designing a more responsive website."
+                ]
+            },
+            {
+                "Subhead": "What Design aspects are important to you as a user and as a developer?",
+                "Paragraphs": [
+                    "The above answer sort of answers this question. Mobile first seems to be the most important consideration when designing a website for a user. Accessibility seems to be the most important aspect as a user however. If you have to jump through hoops on a website to do something then that user will likely bounce and not stay."
+                ]
+            },
+            {
+                "Subhead": "What is the number one thing that held you back this week? Why?",
+                "Paragraphs": [
+                    "Without exposing myself too much, Dealing with personal life issues has been the biggest hold up. Everyday is impacted by it but I only look to persevere, even if I cannot perform to the best of my ability. Doing this interests me more than anything I have done in the past."
+                ]
+            },
+            {
+                "Subhead": "What is one thing you would like to get better at in bootcamp?",
+                "Paragraphs": [
+                    "I feel I need to get better at design. It is the one thing so far that I don't feel very confident in nor interested in."
+                ]
+            }
+        ]
+    },
+    {
+        "Title": "Prework Week 4 Blog Post",
+        "BlogPosts": [
+            {
+                "Subhead": "What was one thing you liked and disliked about each of the new topics covered in prework?",
+                "Paragraphs": [
+                    "One thing I liked through the prework was working with javascript. I am somewhat familiar with python and java so it's nice to see something I'm familiar with. I dislike CSS at this point however as it is hard to make sense of."
+                ]
+            },
+            {
+                "Subhead": "What was helpful?",
+                "Paragraphs": [
+                    "The most helpful thing for me was using slack. It's nice to be able to both ask and answer questions so easily."
+                ]
+            },
+            {
+                "Subhead": "What hindered your progress?",
+                "Paragraphs": [
+                    "Work hindered my progress in the beginning. Balancing work with learning is not done easily. Otherwise it was only personal challenges."
+                ]
+            },
+            {
+                "Subhead": "How did you overcome challenges?",
+                "Paragraphs": [
+                    "Persevering is the only way I can answer this question. Keeping in mind that this is a better oportunity to meet my personal goals versus other previous career choices is definitely a driving factor."
+                ]
+            }
+        ]
+    },
+    {
+        "Title": "Prework Week 3 Blog Post",
+        "BlogPosts": [
+            {
+                "Subhead": "What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?",
+                "Paragraphs": [
+                    "I think it's interesting that JavaScript and CSS can be interchangable in doing certain tasks for a site. JavaScript simply provides a bit more functionality when doing it from what I've been reading. Overall the separation of responsibility between the three languages is a sensible way to do web development."
+                ]
+            },
+            {
+                "Subhead": "What are some objects that your blog incorporates?",
+                "Paragraphs": [
+                    "Currently I don't have any JS being used so I don't think I have an objects incoroporated at the moment."
+                ]
+            }
+        ]
+    },
+    {
+        "Title": "Prework Week 2 Blog Post",
+        "BlogPosts": [
+            {
+                "Subhead": "What are your thoughts on pseudo coding?",
+                "Paragraphs": [
+                    "At the time of completing this post I have not finished with the pseudocoding portion of the week. However from previous coding classes/experiences I understand it is invaluable in organizing and thinking of the necessary requirements for a given project."
+                ]
+            },
+            {
+                "Subhead": "What are you struggling with?",
+                "Paragraphs": [
+                    "At the moment my main struggle is still with css. There's an absurd amount of properties to learn it seems."
+                ]
+            },
+            {
+                "Subhead": "What are you excited or eager to learn more about?",
+                "Paragraphs": [
+                    "I am mostly excited to begin working with javascript. Although html and css are interesting it doesn't quite fill a problem-solving itch like javascript and other future languages will, or so I hope!"
+                ]
+            }
+        ]
+    },
+    {
+        "Title": "Prework Week 1 Blog Post",
+        "BlogPosts": [
+            {
+                "Subhead": "Was your first week what you expected? Why? Why not?",
+                "Paragraphs": [
+                    "For the most part the first week is what I expected. Going through relatively basic concepts on github seems to be a natural first step towards the end goal of being a developer. However experiencing as much of a struggle to learn these concepts is a refreshing experience that I have not had for some time."
+                ]
+            },
+            {
+                "Subhead": "What are you struggling with?",
+                "Paragraphs": [
+                    "The main struggle was understanding how to get this blog post to work as I was a bit lost in the beginning as far as where to put this text and how to set up folders on github using git. Other than this command line has been a bit of a struggle to learn properly. That or maybe it is just experiencing the learning curve."
+                ]
+            },
+            {
+                "Subhead": "What are you excited or eager to learn more about?",
+                "Paragraphs": [
+                    "I'm very eager to begin coding and becoming familiar with our future work. This is the same feeling I have as when you start a new job and have that lost feeling trying to learn the area. It's a daunting feeling but I cannot wait to overcome it since it is such a satisfying feeling to do."
+                ]
+            }
+        ]
+    }
+]
