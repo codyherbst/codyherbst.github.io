@@ -1,5 +1,77 @@
 [
     {
+        "Title": "Week 6 Blog Post",
+        "BlogPosts": [
+            {
+                "Subhead": "What do you like about React?",
+                "Paragraphs": [
+                    "I really like how easy it is to use bootstrap with React while still holding the same functionality that we were used to before. Everything is just much easier since you can just pull in the bootstrap component that you want."
+                ]
+            },
+            {
+                "Subhead": "What are you struggling the most in React?",
+                "Paragraphs": [
+                    "I think state is where I'm still struggling the most. I've gotten much better and thinking it through though so it isn't nearly as much of a challenge as when we worked on the To-Do List."
+                ]
+            },
+            {
+                "Subhead": "How has React caused you to rethink your existing projects?",
+                "Paragraphs": [
+                    "Partitioning pieces of the project and giving specific roles and responsibilities is what I would do most with old projects. All of the projects prior to React are just a wall of code which makes them a bit unreadable."
+                ]
+            },
+            {
+                "Subhead": "Compared to week three, what are three ideas you might want to do for your final project? Are they the same, or have they changed now that you understand more about the technology and your limitations?",
+                "Paragraphs": [
+                    "I think my original idea still stands firmly as of right now. It will require extra knowledge outside the scope of the bootcamp which is the only limiting factor. Stanford NLP is written in python which I have used before, but I will have to learn how to incorporate it with PHP and JS.",
+                    "I also think I will have to limit how much I try to complete of the final idea that I have. It might be best to make a proof of concept due to the short time we will have to complete the final project."
+                ]
+            }
+        ]
+    },
+    {
+        "Title": "Week 5 Blog Post",
+        "BlogPosts": [
+            {
+                "Subhead": "Why are CLIs scary?",
+                "Paragraphs": [
+                    "To me CLIs are scary because of the amount of control over a system they have. Inputting the wrong things could severely impact work or the system itself"
+                ]
+            },
+            {
+                "Subhead": "What have you learned about CLIs?",
+                "Paragraphs": [
+                    "I've learned that they can be fun to work with. The amount you can do with it is surprising and intriguing."
+                ]
+            },
+            {
+                "Subhead": "Would you build a CLI? What would it do?",
+                "Paragraphs": [
+                    "I'm not quite sure how to answer this. I know it would be nice if a CLI ghosted possible tab completions the same way that VS Code does. However I don't know how building a CLI would change much."
+                ]
+            },
+            {
+                "Subhead": "List some ideas that without a Framework, would take you a long time to code.",
+                "Paragraphs": [
+                    "Making a webpage is something that definitely takes longer without a framework. Being able to you JSX and snippet extentions from VS Code makes starting a project much easier. It's nice to be able to throw something on the screen with only a small amount of code.",
+                    "Past this I'm not so sure as I don't know the full capability of using a Framework versus vanilla JS. I feel like I still use a decent amount of vanilla JS as a solution when there is likely a much easier route."
+                ]
+            },
+            {
+                "Subhead": "How do you feel now (week 5) compared to when you started?",
+                "Paragraphs": [
+                    "I feel very fulfilled with the work I've put in and the success that I've had. I came into this program worried that I would fail based on my past experience with school. Excelling in something that is challenging has been such a gratifying experience."
+                ]
+            },
+            {
+                "Subhead": "What questions haven't you answered on your blog page yet?",
+                "Paragraphs": [
+                    "I believe I have answered everything to a reasonable amount at this point."
+                ]
+            }
+        ]
+    },
+    {
         "Title": "Week 4 Blog Post",
         "BlogPosts": [
             {
